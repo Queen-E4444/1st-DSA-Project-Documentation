@@ -12,11 +12,3 @@ The primary source of data used here is sourced from <DSA Capstone Project mater
 ### Tools Used
 - SQL (Structured Query Language)
 
-in the initial phase of the Data Cleaning and prepaations, the following action was perform;
-1. Data loading and inspection (Standardardization)
-2. Missing values handling
-3. Data type conversion
-4. Feature Engineering(created field such as Discounted Price and Estimated Revenue)
-5. Outlier Detection
-6. Dashboard Preparation
-### Analysis
