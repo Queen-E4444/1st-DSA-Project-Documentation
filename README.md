@@ -10,7 +10,7 @@ This project aims to uncover key insights from the sales dataset of a company (p
 The primary source of data used here is sourced from <DSA Capstone Project materials> and this files were provided as part of a structured learning program, only to be used here solely for education and portfolio demonstration purposes and not for redistribution.
 
 ### Tools Used
-- Ms Excel(for Querying and Analysis)
+- SQL (Structured Query Language)
 
 in the initial phase of the Data Cleaning and prepaations, the following action was perform;
 1. Data loading and inspection (Standardardization)
