@@ -11,7 +11,8 @@ The primary source of data used here is sourced from <DSA Capstone Project mater
 
 ### Tools Used
 - SQL (Structured Query Language)
+- power point
 
 ### Analysis
 
-
+[KMS_Insights_With_Charts_and_Notes.pptx](https://github.com/user-attachments/files/21092155/KMS_Insights_With_Charts_and_Notes.pptx)
