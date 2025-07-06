@@ -12,3 +12,6 @@ The primary source of data used here is sourced from <DSA Capstone Project mater
 ### Tools Used
 - SQL (Structured Query Language)
 
+### Analysis
+
+
